@@ -1,0 +1,1 @@
+Main-Class: com.amazonaws.samples.S3Sample
